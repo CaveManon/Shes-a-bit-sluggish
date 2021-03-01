@@ -1187,9 +1187,9 @@ if score == 3: #The Good Ending
 label playAgain:
 menu:
    "would you like to play again?"  
-   "no thank you":
+   "I do not want to play again":
      "Thank you for your time!"
      $ renpy.quit()
 
-   "yeah":
+   "I would like to play again":
      jump start
