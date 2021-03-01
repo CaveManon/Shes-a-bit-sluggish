@@ -306,8 +306,6 @@ D "..."
 
 A "..."
 
-scene 2a with dissolve
-
 "I bite my tongue and wait to see if Dori felt in any way similar about that disgrace of anime."
 
 
@@ -358,8 +356,6 @@ A "The art design was certainly unique."
 
 
 "I repress the involuntary shudder."
-
-scene 4b with dissolve
 
 D "I can see why you like this stuff."
 
