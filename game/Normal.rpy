@@ -269,15 +269,12 @@ menu:
     "You watch movies for the experience.":
      jump HeDoesItForFun
 
-
-
 label NostalgiaCritic:
 
 scene 2b2
 
 A "Let me find the words…"
 
-scene 4a with dissolve
 A "That was quite possibly the worst shit I’ve ever seen!"
 
 
@@ -360,7 +357,6 @@ A "The art design was certainly unique."
 
 "I repress the involuntary shudder."
 
-scene 4b with dissolve
 
 D "I can see why you like this stuff."
 
