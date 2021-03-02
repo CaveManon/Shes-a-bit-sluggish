@@ -276,7 +276,6 @@ scene 2b2
 
 A "Let me find the words…"
 
-scene 4a with dissolve
 A "That was quite possibly the worst thing I’ve ever seen!"
 
 
